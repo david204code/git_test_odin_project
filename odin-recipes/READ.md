@@ -1,0 +1,1 @@
+This project, Recipes is part of the _Foundations_ Course found at **theodinproject**. This repository is the the summary of the subjects covered in the **_HTML Foundations_** section.
